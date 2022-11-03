@@ -1,0 +1,15 @@
+## Interface: 30400
+## Title: ItemRack|cffccccccTitles|r
+## Notes: Swap titles with your gear sets.
+## Author: Saiket, Roadblock (WotLKC refresh)
+## Version: 3.3.0.2
+## X-Date: 2022-11-03
+## X-Category: Inventory
+## X-License: GPLv3
+## X-WoWI-ID: 12018
+## X-Curse-Project-ID: 19631
+## X-Localizations: enUS
+## RequiredDeps: ItemRack
+Locales.xml
+
+ItemRackTitles.lua
