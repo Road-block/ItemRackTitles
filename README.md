@@ -1,5 +1,6 @@
 # ItemRackTitles
 Wrath Classic refresh for saiket's nice ItemRack plugin
+Requires [ItemRack Classic](https://www.curseforge.com/wow/addons/itemrack-classic) installed
 
 ## Attribution
 Original addon [ItemRackTitles](https://github.com/jabernat/wow-saiket/tree/9a13e6cda52ca0f59cd437a14d0e35cdf4fbf52d/ItemRackTitles)
